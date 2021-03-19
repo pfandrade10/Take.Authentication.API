@@ -8,14 +8,6 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-<<<<<<< HEAD:Take.API.Authorization/Startup.cs
-using Microsoft.Extensions.Logging;
-using System.Reflection;
-using System.IO;
-using Swashbuckle.AspNetCore;
-using Microsoft.OpenApi.Models;
-=======
->>>>>>> c3a8c4335e93fbaa195585106fad93219e247be8:Take.UI.MVC.ToolsDashboard/Startup.cs
 
 namespace Take.UI.MVC.ToolsDashboard
 {
